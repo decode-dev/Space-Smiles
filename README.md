@@ -15,7 +15,9 @@ We will be also be developing this application for Windows and Apple Platforms.
 ***** CREDITS*****
 
 U.M.K. DIKSHIT
+
 JOHN BENEDICT B
+
 NITYA LAKKARAJU
 
 Anyone can fork the above project and play around.
