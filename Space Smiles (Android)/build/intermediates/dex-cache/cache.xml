@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Dikshit.iMac-Alienware\Projects\AndroidProjects\Space Smiles\app\libs\json-simple-1.1.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="5d6f9b6a9ddca2a28c0216cc44efb2e20d9c23b5">
+        <dex dex="C:\Users\Dikshit.iMac-Alienware\Projects\AndroidProjects\Space Smiles\app\build\intermediates\pre-dexed\debug\json-simple-1.1.1-13a25f1623f034117776a548a0af61db3c888110.jar" />
+    </item>
+    <item
+        jar="C:\Users\Dikshit.iMac-Alienware\Projects\AndroidProjects\Space Smiles\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="C:\Users\Dikshit.iMac-Alienware\Projects\AndroidProjects\Space Smiles\app\build\intermediates\pre-dexed\debug\classes-7be05285f31f8d15c815b03cf7621bcaa588223b.jar" />
+    </item>
+    <item
+        jar="C:\Program Files (x86)\Android Studio\sdk\extras\android\m2repository\com\android\support\support-annotations\22.0.0\support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="C:\Users\Dikshit.iMac-Alienware\Projects\AndroidProjects\Space Smiles\app\build\intermediates\pre-dexed\debug\support-annotations-22.0.0-95d561b56bf8b6ec39732b8b01135bade57fc93a.jar" />
+    </item>
+    <item
+        jar="C:\Users\Dikshit.iMac-Alienware\Projects\AndroidProjects\Space Smiles\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="C:\Users\Dikshit.iMac-Alienware\Projects\AndroidProjects\Space Smiles\app\build\intermediates\pre-dexed\debug\classes-62c2abb72a53bcf866e75284f04b9798b1d4be0e.jar" />
+    </item>
+    <item
+        jar="C:\Users\Dikshit.iMac-Alienware\Projects\AndroidProjects\Space Smiles\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\libs\internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="C:\Users\Dikshit.iMac-Alienware\Projects\AndroidProjects\Space Smiles\app\build\intermediates\pre-dexed\debug\internal_impl-22.0.0-c5d32655fe82dbc87a3878c5061b9d1c588ed664.jar" />
+    </item>
+
+</items>

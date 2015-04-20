@@ -1,0 +1,22 @@
+.message {
+	width:350px;
+	height:auto;
+	padding:5px;
+	border-radius:5px;
+	-webkit-border-radius:5px;
+	-o-border-radius:5px;
+	-moz-border-radius:5px;
+	position: relative;
+	top: 10px;
+	left: 50%;
+	margin-left: -175px;
+	text-align:center;
+	font-weight:bold;
+	font-size:12px;
+}
+.message.fail {
+	background: red;
+}
+.message.success {
+	background: green;
+}
