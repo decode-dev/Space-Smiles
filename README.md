@@ -10,3 +10,14 @@ Even we are planning to introduce a customized Background where they can choose 
 for the Picture from the available Backgrounds and their "Custom Background".
 
 We will be also be developing this application for Windows and Apple Platforms.
+
+
+***** CREDITS*****
+**************************
+U.M.K. DIKSHIT
+JOHN BENEDICT B
+NITYA LAKKARAJU
+**************************
+Anyone can fork the above project and play around.
+# If you are developer then you can even make some code changes if it is required.
+And also can send the commit changes to the repository.
