@@ -11,6 +11,9 @@ for the Picture from the available Backgrounds and their "Custom Background".
 
 We will be also be developing this application for Windows and Apple Platforms.
 
+The Android App is built by using the Local System Ip Address so people who want to fork the Project, 
+should first change the "Network Address" and then start the 'Debugging'. 
+
 
 ***** CREDITS*****
 
