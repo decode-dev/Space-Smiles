@@ -14,6 +14,10 @@ We will be also be developing this application for Windows and Apple Platforms.
 # The Android App is built by using the Local System IP Address so people who want to fork the Project, 
 should first change the "Network Address" and then start the 'Debugging'. 
 
+I have used "Wamp Server 2.2" since "mysql" is not supported in the latest versions and also there are some errors which caused me de-grade to old build of "Wamp Server".
+
+
+
 
 ***** CREDITS*****
 
